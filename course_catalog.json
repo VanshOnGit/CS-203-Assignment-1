@@ -1,0 +1,46 @@
+[
+    {
+        "code": "CS101",
+        "name": "Introduction to Computer Science",
+        "instructor": "Dr. Smith",
+        "semester": "Fall 2024",
+        "schedule": "Mon, Wed, Fri 10:00-11:00 AM",
+        "classroom": "Room 101",
+        "prerequisites": "None",
+        "grading": "Midterm 30%, Final 50%, Homework 20%",
+        "description": "An introduction to the basics of computer science."
+    },
+    {
+        "code": "CS 203",
+        "name": "Software and Tools for AI",
+        "instructor": "Prof. Mayank Singh",
+        "semester": "Fall 2025",
+        "schedule": "Mon, Wed, Fri 10:00-11:00 AM",
+        "classroom": "AB 7/109",
+        "prerequisites": "Basic Python, Linux",
+        "grading": "50% Assignment, 50% Quiz",
+        "description": ""
+    },
+    {
+        "code": "EE301",
+        "name": "Digital Signal Processing",
+        "instructor": "Dr. John Smith",
+        "semester": "Fall 2025",
+        "schedule": "Tue, Thu 2:00 PM - 3:30 PM",
+        "classroom": "7/105",
+        "prerequisites": "EE201 (Signals and Systems)",
+        "grading": "Quizzes 20%, Midterm 30%, Final 50%",
+        "description": "This course introduces the concepts and techniques for processing digital signals. Topics include Fourier transforms, digital filters, sampling, and real-time signal processing applications."
+    },
+    {
+        "code": "ergw",
+        "name": "er",
+        "instructor": "werg",
+        "semester": "wegr",
+        "schedule": "",
+        "classroom": "",
+        "prerequisites": "",
+        "grading": "",
+        "description": ""
+    }
+]
