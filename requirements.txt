@@ -1,6 +1,7 @@
 Flask==2.2.3
-opentelemetry-api==1.17.0
 opentelemetry-sdk==1.17.0
-opentelemetry-exporter-jaeger==1.17.0
 opentelemetry-instrumentation-flask==0.40b0
+opentelemetry-exporter-jaeger==1.17.0
+opentelemetry-semantic-conventions==0.40b0
+gunicorn==20.1.0
 json-log-formatter==0.5.1
